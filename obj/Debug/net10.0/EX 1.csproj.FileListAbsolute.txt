@@ -1,0 +1,14 @@
+D:\EX 1\obj\Debug\net10.0\EX 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EX 1\obj\Debug\net10.0\EX 1.AssemblyInfoInputs.cache
+D:\EX 1\obj\Debug\net10.0\EX 1.AssemblyInfo.cs
+D:\EX 1\obj\Debug\net10.0\EX 1.csproj.CoreCompileInputs.cache
+D:\EX 1\bin\Debug\net10.0\EX 1.exe
+D:\EX 1\bin\Debug\net10.0\EX 1.deps.json
+D:\EX 1\bin\Debug\net10.0\EX 1.runtimeconfig.json
+D:\EX 1\bin\Debug\net10.0\EX 1.dll
+D:\EX 1\bin\Debug\net10.0\EX 1.pdb
+D:\EX 1\obj\Debug\net10.0\EX 1.dll
+D:\EX 1\obj\Debug\net10.0\refint\EX 1.dll
+D:\EX 1\obj\Debug\net10.0\EX 1.pdb
+D:\EX 1\obj\Debug\net10.0\EX 1.genruntimeconfig.cache
+D:\EX 1\obj\Debug\net10.0\ref\EX 1.dll
